@@ -1,0 +1,3 @@
+DATABASE='name_db'
+USER = 'your_psql_name'
+PASSWORD = 'you_password',
